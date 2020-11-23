@@ -3,5 +3,5 @@
 A simple Flutter project.
 
 
-References:
--[online documentation](https://flutter.dev/docs)
+Reference:
+[online documentation](https://flutter.dev/docs)
